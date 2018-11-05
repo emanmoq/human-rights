@@ -1,0 +1,102 @@
+.mainClass{
+    background-color: white;
+    width:100%;
+    height: auto;
+    direction: rtl;
+}
+.logo{
+    width:200px;
+    margin:40px 40px 80px 0;
+}
+.logo img{
+    width:100%;
+}
+.icons{
+    display: inline-block;
+}
+.icons a{
+    text-align: center;
+display: inline-block;
+font-size:25px;
+color:white;
+width:50px;
+height: 50px;
+line-height:50px;
+border-radius: 50%;
+margin-left:20px;
+}
+.icons .facebook{
+    background-color:#3B5998;
+}
+.icons .twitter{
+    background-color:#1DA1F2;
+}
+.icons .insta{
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+}
+.icons .youtube{
+    background-color:#c4302b;  
+}
+.title{
+    text-align-last:justify;
+    padding:50px 70px 20px 0;
+  
+}
+.title h2{
+    font-size:48px;
+    font-weight: bold;
+   
+    word-spacing:2px;
+}
+.title h1{
+    font-size:29px;
+    font-weight: bold;
+    padding-bottom:20px;
+    border-bottom: 1px solid #1DA1F2;
+   
+}
+.contact{
+    direction: ltr;
+}
+.contact i{
+    margin-right:20px;
+    font-size:30px;
+    color:#1DA1F2;
+    font-weight: 700;
+}
+.contact ul li{
+    list-style-type: none;
+    text-align: left;
+}
+.contact ul{
+   padding:0
+}
+
+.contact span{
+    font-size:30px;
+    color:black;
+    font-weight: 500;
+   }
+   .jadi{
+       display:inline-block;
+   }
+.activity img{
+    width:70px;
+    height: 70px;
+    border-radius: 50%;
+    padding:5px;
+    border:2px dashed black;
+
+}
+.activity span{
+    margin-right:10px;
+    font-size:20px;
+    color:black;
+    font-weight: 500;
+}
+.rights{
+    margin-top:10px;
+}
